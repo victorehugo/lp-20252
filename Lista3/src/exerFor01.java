@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exer03 {
+public class exerFor01 {
     public static void  main(String[] args){
 
         Scanner e = new Scanner(System.in);
@@ -11,7 +11,5 @@ public class exer03 {
         for (int i = 1; i <= 10; i++){
             System.out.println(+num+ "X" +i+ "=" +i*num);
         }
-
-
     }
 }
