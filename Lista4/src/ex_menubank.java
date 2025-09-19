@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class ex01{
+public class ex_menubank {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int opçao;
